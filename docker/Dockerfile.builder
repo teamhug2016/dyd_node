@@ -1,2 +1,2 @@
-FROM tinycore-node:5.7
+FROM dev/node5.7
 
