@@ -1,4 +1,3 @@
-BUILDER_IMAGE=dev/node5.7
 APP_IMAGE=app/dyd_node
 
 docker-image:
